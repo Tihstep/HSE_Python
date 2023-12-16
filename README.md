@@ -21,4 +21,7 @@ curl --header "Content-Type: application/json" --request POST --data '{"expressi
 
 Также в файле auto_tests.py приведены некоторые тесты работы калькулятора
 
-![bear](https://media.giphy.com/media/QEIC6GZIEGStO/giphy.gif])
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/QEIC6GZIEGStO/giphy.gif" width="200"/>
+</div>
