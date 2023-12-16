@@ -13,9 +13,12 @@
 код обработки запроса представлен в файле Calculator.py
 
 Обращение к калькулятору следует проводить через POST-запрос шаблона: 
+
+
 curl --header "Content-Type: application/json" --request POST --data '{"expression":"10+20"}' http://127.0.0.1:5000
+
 предварительно запустив flask-сервер скриптом flask_app.py
 
 Также в файле auto_tests.py приведены некоторые тесты работы калькулятора
 
-![https://media.giphy.com/media/QEIC6GZIEGStO/giphy.gif]
+![bear](https://media.giphy.com/media/QEIC6GZIEGStO/giphy.gif])
